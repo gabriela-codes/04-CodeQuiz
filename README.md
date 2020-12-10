@@ -9,11 +9,11 @@ Build a timed code quiz with both multiple-chioce questions and interactive chal
 
 
 ```
-* User will click a start button and a timer will start while showing the first questions. 
-* If questions are answered correctly another question will appear. 
-* If questions are answered incorrectly then time will be subtracted from the clock. 
-* When the timer reached 0 then the game is over. 
-* User can save their initials and score. 
+User will click a start button and a timer will start while showing the first questions. 
+If questions are answered correctly another question will appear. 
+If questions are answered incorrectly then time will be subtracted from the clock. 
+When the timer reached 0 then the game is over. 
+User can save their initials and score. 
 
 ```
 
